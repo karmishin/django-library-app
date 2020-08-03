@@ -1,7 +1,5 @@
 A simple library website written in Django.
 
-**Warning**: This is my first programming project. It may or may not work. 
-
 # What it does
 
 Retrieves data from database and shows it in beautifully formatted Bootstrap table.
